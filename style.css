@@ -1,3 +1,19 @@
+.playerSelect {
+    margin-left: 30%;
+    margin-right: 30%;
+    width: 40%;
+    height: 40px;
+    background-color: grey;
+    color: black;
+    font-style: bold;
+    font-size: 1.2em;
+    font-family: sans-serif;
+}
+
+.playerSelect:hover {
+    animation: color 1000ms forwards;
+}
+
 #gameboard {
     margin: auto;
     width: 600px;
